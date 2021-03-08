@@ -46,7 +46,7 @@ The detailed instructions are divided into the following parts:
 6) Visualize the Results
 
 
-#### After optimizing clusters with CPA, your visualization should looks lli
+#####  After optimizing clusters with CPA, your visualization should looks like the following:
 
 
 
